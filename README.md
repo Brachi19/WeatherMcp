@@ -97,9 +97,9 @@ npx @modelcontextprotocol/inspector python server.py
 
 ### צילומי מסך
 
-![succsessfull chat](screenshots.successfull_chat "successfull_chat")
+![succsessfull chat](screenshots/successfull_chat.png "successfull_chat")
 
-![not_found_city](screenshots.not_found_city "not_found_city")
+![not_found_city](screenshots/not_found_city.png "not_found_city")
 
 ## טיפול בשגיאות
 
